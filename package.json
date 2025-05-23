@@ -1,0 +1,21 @@
+{
+  "name": "less-ai-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "less",
+    "ai",
+    "llm",
+    "openrouter",
+    "serverless",
+    "aws",
+    "distributed workflows"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.5"
+  }
+}
